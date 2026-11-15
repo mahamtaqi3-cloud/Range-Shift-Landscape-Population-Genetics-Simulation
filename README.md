@@ -1,4 +1,4 @@
-# Range shift landscape population genetics simimulation
+# Range Shift Landscape Population Genetics Simulation
 
 A small simulation project exploring whether the geographic origin of a range expansion can be inferred from genetic diversity alone, and whether that inference is robust to heterogeneity in local population size.
 
